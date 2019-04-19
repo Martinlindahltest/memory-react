@@ -1,5 +1,5 @@
 import { get } from "https";
-
+/* Finns jag på github nu?*/ 
 state = {
     kort = [ 
         {
