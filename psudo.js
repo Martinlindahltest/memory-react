@@ -1,5 +1,5 @@
 import { get } from "https";
-/* Finns jag på github nu?  men inte nu va*/ 
+/* Finns jag på github nu?  men inte nu va testatesta */ 
 state = {
     kort = [ 
         {
