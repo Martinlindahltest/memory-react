@@ -1,0 +1,27 @@
+.kortklass {
+  height: 140px;
+  width: 140px;
+  background-color: green;
+  display: inline-block;
+  margin: 20px;
+}
+
+.inaktivt-kort{
+  height: 140px;
+  width: 140px;
+  background-color: brown;
+  display: inline-block;
+  margin: 20px;
+}
+
+.blue {
+  background-color: blue
+}
+
+.yellow {
+  background-color: yellow
+}
+
+.black {
+  background-color: black
+}
